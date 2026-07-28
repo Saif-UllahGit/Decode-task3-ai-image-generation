@@ -33,5 +33,4 @@ Developed as part of the **Decode Internship Program (Task 3)**.
 
 ---
 
-## 📂 Project Structure
 
